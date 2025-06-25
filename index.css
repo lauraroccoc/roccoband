@@ -100,10 +100,6 @@ header a:hover{
     color: white;
 }
 
-#Somos-La-Rocco-Band{
-
-}
-
 #Somos-La-Rocco-Band .container{
     text-align: center;
     padding: 200px 12px;
@@ -191,13 +187,13 @@ background-image: linear-gradient(
 
 }
 
-#contacto .container{
+#Contacto .container{
     text-align: center;
     padding: 60px 10px;
     background-color: rgb(248, 247, 247);
 }
 
-#contacto li{
+#Contacto li{
     margin: 15px 0px;
     font-weight: bold;
 
